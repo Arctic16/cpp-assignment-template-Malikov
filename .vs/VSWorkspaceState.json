@@ -9,10 +9,13 @@
   },
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\external",
     "\\hw05",
     "\\hw05\\src",
     "\\hw05\\tests"
   ],
-  "SelectedNode": "\\hw05\\tests\\CMakeLists.txt",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
